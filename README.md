@@ -5,6 +5,7 @@ This program can encode or decode user's text. User can choose the direction of 
 To encode, it will right shift each letter to the shift amount given by user. To decode, it will left shift each letter to the shift amount given by user.  
 
 For example:
+
 If you want to encrypt your text:
 direction = "encode"
 text = "I love you <3"
