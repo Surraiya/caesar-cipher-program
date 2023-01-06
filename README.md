@@ -6,15 +6,15 @@ To encode, it will right shift each letter to the shift amount given by user. To
 
 For example:
 
-If you want to encrypt your text:
-direction = "encode"
-text = "I love you <3"
-shift = 12
-encrypted_text = "u xahq kag <3"
+If you want to encrypt your text:\
+direction = "encode"\
+text = "I love you <3"\
+shift = 12\
+encrypted_text = "u xahq kag <3"\
 
 
-If you want to decrypt your text:
-direction = "decode"
-text = "u xahq kag <3"
-shift = 12
-encrypted_text = "I love you <3"
+If you want to decrypt your text:\
+direction = "decode"\
+text = "u xahq kag <3"\
+shift = 12\
+encrypted_text = "I love you <3"\
